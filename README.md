@@ -5,4 +5,5 @@ Lorsqu'un utilisateur est créé, il peut créer une news. Les news doivent êtr
 Ce projet utilise les langages : HTML, CSS, PHP, JavaScript, et comprend la création et la gestion de Base de Données.
 vous pouvez retrouver ce projet à l'adresse url : https://infodb.iutmetz.univ-lorraine.fr/~walter59u/tdphp/projet_php/menu.php
 Vous pouvez librement regarder le code dans le dossier.
+
 Edit 28/01/19 : ce projet n'est plus disponible à cette adresse car l'Université de Lorraine change d'infrastructure et n'a pas importé les données des serveurs... 
